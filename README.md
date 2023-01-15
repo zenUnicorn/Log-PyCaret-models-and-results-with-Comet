@@ -18,6 +18,9 @@ pip install pycaret
 
 To install the full version (see dependencies below):
 
+```python
+pip install pycaret[full]
+```
 
 
 
