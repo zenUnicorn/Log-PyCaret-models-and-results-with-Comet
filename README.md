@@ -12,3 +12,9 @@ The design and simplicity of PyCaret are inspired by the emerging role of citize
 ## Installation
 Install PyCaret with Python's pip package manager.
 
+```python
+pip install pycaret
+```
+
+
+
