@@ -16,5 +16,8 @@ Install PyCaret with Python's pip package manager.
 pip install pycaret
 ```
 
+To install the full version (see dependencies below):
+
+
 
 
