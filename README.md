@@ -10,7 +10,7 @@ Compared with the other open-source machine learning libraries, PyCaret is an al
 The design and simplicity of PyCaret are inspired by the emerging role of citizen data scientists, a term first used by Gartner. Citizen Data Scientists are power users who can perform both simple and moderately sophisticated analytical tasks that would previously have required more technical expertise.
 
 ## Installation
-Install PyCaret with Python's pip package manager.
+Install `PyCaret` with Python's pip package manager.
 
 ```python
 pip install pycaret
